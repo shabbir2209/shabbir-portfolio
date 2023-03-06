@@ -53,6 +53,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Hyperiondev Web Development Bootcamp Link</ListTitle>
           <Link href="https://www.hyperiondev.com/portfolio/58679/" target="_blank">
+            Click
           </Link>
         </ListContainer>
       </ListItem>
@@ -60,6 +61,15 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Github Link</ListTitle>
           <Link href="https://github.com/shabbir2209" target="_blank">
+            Click
+          </Link>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <ListContainer>
+          <ListTitle>Linked In</ListTitle>
+          <Link href="https://www.linkedin.com/in/shabbir-hussain-3a21b4215/" target="_blank">
+            Click
           </Link>
         </ListContainer>
       </ListItem>
