@@ -21,7 +21,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             <br />
-            React.js | React Native | Django
+            React.js | React Native | Django Jinja Templating
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -33,7 +33,19 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
            <br />
-            Express | Node | Django | Mongo | RESTful APIs
+            Express | Node | Python(Django) | Mongo | RESTful APIs
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Google Marketing</ListTitle>
+          <ListParagraph>
+           <br />
+            Google Adwords | Google Analytics | Google My Business | Google Merchant Center
           </ListParagraph>
         </ListContainer>
       </ListItem>
