@@ -51,11 +51,11 @@ const Technologies = () =>  (
       </ListItem>
       <ListItem>
         <ListContainer>
-          <ListTitle>Hyperiondev Bootcamp Link</ListTitle>
-          <Link href="https://www.hyperiondev.com/portfolio/58679/">
+          <ListTitle>Hyperiondev Web Development Bootcamp Link</ListTitle>
+          <Link href="https://www.hyperiondev.com/portfolio/58679/" target="_blank">
           <ListParagraph>
            <br />
-            Shabbir Hussain
+            Click Here
           </ListParagraph>
           </Link>
         </ListContainer>

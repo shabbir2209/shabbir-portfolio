@@ -20,7 +20,7 @@ const Projects = () => (
             </TitleContent>
             <CardInfo className="card-info">{p.description}</CardInfo>
             <UtilityList>
-              <ExternalLinks href={p.visit}>Visit</ExternalLinks>
+              <ExternalLinks href={p.visit} target="_blank">Visit</ExternalLinks>
             </UtilityList>
           </BlogCard>
         );
