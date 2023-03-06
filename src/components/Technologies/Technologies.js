@@ -63,13 +63,6 @@ const Technologies = () =>  (
           </Link>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <ListContainer>
-          <ListTitle>Linked In</ListTitle>
-          <Link href="https://www.linkedin.com/in/shabbir-hussain-3a21b4215/" target="_blank">
-          </Link>
-        </ListContainer>
-      </ListItem>
     </List>
     <SectionDivider colorAlt />
   </Section>
