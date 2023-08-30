@@ -10,7 +10,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      Started off as a self taught developer with python and the basics of web development.Aspiring student keen on learning more technologies.
+      I find immense joy in transforming ideas into interactive, dynamic, and responsive websites and web applications. The process of taking a concept from wireframe to fully functional reality, while continuously learning and adapting to new technologies, keeps me motivated and excited about my work.
       </SectionText>
       <SectionDivider />
     </Section>
