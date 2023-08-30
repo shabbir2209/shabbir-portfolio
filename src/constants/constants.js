@@ -59,7 +59,7 @@ export const projects = [
   {
     title: 'Logistics App',
     description: "Python Django,Jinja,DRF,React Native",
-    image: '/images/Logistics.png',
+    image: '/images/Logistics app.png',
     visit: '#',
     id: 8,
   },
