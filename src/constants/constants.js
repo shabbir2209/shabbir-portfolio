@@ -2,7 +2,7 @@
 export const projects = [
   {
     title: 'Osbro Home',
-    description: "E-commerce website ",
+    description: "Wordpress e-commerce, woocommerce ",
       image: '/images/osbro.png',
     visit: 'https://osbro.co.za/',
     id: 0,
@@ -23,7 +23,7 @@ export const projects = [
   },
   {
     title: 'Infocus Tech',
-    description: "My freelancing website ",
+    description: "HTML, CSS, Vanilla JS ",
       image: '/images/infocustech.png',
     visit: 'https://infocustech.co.za/',
     id: 3,
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     title: 'Cobol Auto Parts',
-    description:"An e-commerce website for a wholesale client",
+    description:"Wordpress e commerce, auto parts wholesaler",
     image: '/images/cobol1.jpg',
     visit: 'https://www.cobolautoparts.com/',
     id: 5,
@@ -50,11 +50,26 @@ export const projects = [
     id: 6,
   },
   {
-    title: 'Hangman Game',
-    description: "Hangman Game built with React",
-    image: '/images/hangman.png',
-    visit: 'https://hangman2209.herokuapp.com/',
+    title: 'PandasAI Replenishment Program',
+    description: "Python,Django,PandasAI,Bootstrap,Jinja Templating",
+    image: '/images/Promo-replenish.png',
+    visit: '#',
     id: 7,
   },
+  {
+    title: 'Logistics App',
+    description: "Python Django,Jinja,DRF,React Native",
+    image: '/images/Logistics.png',
+    visit: '#',
+    id: 8,
+  },
+  {
+    title: 'Hangman Game',
+    description: "Hangman Game built with React (Bootcamp Project)",
+    image: '/images/hangman.png',
+    visit: 'https://hangman2209.herokuapp.com/',
+    id: 9,
+  },
+
 ];
 
