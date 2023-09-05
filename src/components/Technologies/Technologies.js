@@ -49,7 +49,7 @@ const Technologies = () =>  (
           </ListParagraph>
         </ListContainer>
       </ListItem>
-      {/* <ListItem>
+      <ListItem>
         <ListContainer>
           <ListTitle>Hyperiondev Web Development Bootcamp Link</ListTitle>
           <Link href="https://www.hyperiondev.com/portfolio/58679/" target="_blank">
@@ -72,7 +72,7 @@ const Technologies = () =>  (
             Click
           </Link>
         </ListContainer>
-      </ListItem> */}
+      </ListItem>
     </List>
     <SectionDivider colorAlt />
   </Section>
