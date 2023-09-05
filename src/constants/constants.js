@@ -64,10 +64,10 @@ export const projects = [
     id: 8,
   },
   {
-    title: 'Hangman Game',
-    description: "Hangman Game built with React (Bootcamp Project)",
-    image: '/images/hangman.png',
-    visit: 'https://hangman2209.herokuapp.com/',
+    title: 'Kgopelo Africa',
+    description: "Wordpress, e commerce, online store",
+    image: '/images/Kgopelo.png',
+    visit: 'https://kgopelo.africa',
     id: 9,
   },
 
